@@ -1,4 +1,6 @@
-Hi, I'm Jingmin Wei, a first-year M.S. student at Univ. of Southern California, majoring in Computer Science - Artificial Intelligence.
+### Hi there, I'm Jingmin Wei(魏靖旻)
+
+I'm a first-year M.S. student at Univ. of Southern California, majoring in Computer Science - Artificial Intelligence.
 
 I'm currently a research assistant at USC IRIS CV Lab, advised by prof Ram Nevatia. My research interests include robust representation, few-shot learning, and multi-modality learning.
 
