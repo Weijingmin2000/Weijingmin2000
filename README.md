@@ -2,7 +2,7 @@
 
 I'm a first-year M.S. student at [Univ. of Southern California](https://www.usc.edu/), majoring in [Computer Science](https://www.cs.usc.edu/).
 
-I'm currently a research assistant at [IRIS CV Lab](https://sites.usc.edu/iris-cvlab/), advised by prof Ram Nevatia. My research interests include Robust Representation, Few-shot Learning, and Multi-modal Adapter.
+I'm currently a research assistant at [IRIS CV Lab](https://sites.usc.edu/iris-cvlab/), advised by prof Ram Nevatia. My research interests include Computer Vision, Robustness, and Multi-modal Learning.
 
 Before coming to USC, I obtained my B.Eng. degree at the School of Artificial Intelligence and Automation, [Huazhong Univ. of Science & Technology](http://english.hust.edu.cn/) (A top 10 university in China). I worked as an undergraduate research assistant, advised by prof Sheng Zhong, focusing on research about PIV, Facial Language Analysis & Understanding.
 
