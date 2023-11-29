@@ -2,7 +2,7 @@
 
 Hi! I'm a second-year M.S. student studying at Univ. of Southern California, majoring in [Computer Science](https://www.cs.usc.edu/). 
 
-I'm fortunate to work with [Zhaoheng Zheng](https://zhaohengz.github.io/) and [Prof. Ram Nevatia](https://sites.usc.edu/iris-cvlab/professor-ram-nevatia/) at [IRIS CV Lab](https://sites.usc.edu/iris-cvlab/). My research interest lines in the area of security and parameter-efficient learning, including Vision Robust Representation (Adversarial Learning), Multi-modal Adapter, and Prompt Learning.
+I'm fortunate to work with [Prof. Ram Nevatia](https://sites.usc.edu/iris-cvlab/professor-ram-nevatia/) and [Dr. Zhaoheng Zheng](https://zhaohengz.github.io/) at [IRIS CV Lab](https://sites.usc.edu/iris-cvlab/). My research interest lines in the area of stability and efficiency, including Vision Robust Representation (Adversarial Learning) and Parameter-efficient Learning (Multi-modal Adapter, Prompt Learning).
 
 Prior to USC, I obtained my B.E. degree at the [School of Artificial Intelligence and Automation](http://english.aia.hust.edu.cn/), Huazhong Univ. of Sci. and Tech. I worked as an undergrad research assistant, advised by prof [Sheng Zhong](http://faculty.hust.edu.cn/zhongsheng/en/index.htm), focusing on research about Facial Language Analysis and Understanding.
 
