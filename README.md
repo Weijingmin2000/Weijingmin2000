@@ -2,7 +2,7 @@
 
 Hi! I'm a second-year M.S. student studying at Univ. of Southern California, majoring in [Computer Science](https://www.cs.usc.edu/). 
 
-I am very fortunate to work at [IRIS Computer Vision Lab](https://sites.usc.edu/iris-cvlab/) under the guidance of Prof. [Prof. Ram Nevatia](https://sites.usc.edu/iris-cvlab/professor-ram-nevatia/), collaborating closely with [Zhaoheng Zheng](https://zhaohengz.github.io/). My research interest lies in the area of robustness and efficiency, including learning visual robust representation against adversarial attack and parameter-efficient fine-tuning.
+I am very fortunate to work at [IRIS Computer Vision Lab](https://sites.usc.edu/iris-cvlab/) under the guidance of Prof. [Prof. Ram Nevatia](https://sites.usc.edu/iris-cvlab/professor-ram-nevatia/), collaborating closely with [Zhaoheng Zheng](https://zhaohengz.github.io/). My research interest lies in the area of robustness and efficiency, including learning robust visual representation, focusing on strengthening models' resilience against adversarial attacks, and parameter-efficient fine-tuning, aiming to achieve greater efficacy in multi-modal optimization.
 
 Prior to USC, I obtained my B.E. degree at the [School of Artificial Intelligence and Automation](http://english.aia.hust.edu.cn/), Huazhong Univ. of Science and Technology (a Top 10 univeristy in China). Advised by Prof. [Sheng Zhong](http://english.aia.hust.edu.cn/info/1030/1347.htm), I focused on research about building emotion assess system based on facial language understanding.
 
